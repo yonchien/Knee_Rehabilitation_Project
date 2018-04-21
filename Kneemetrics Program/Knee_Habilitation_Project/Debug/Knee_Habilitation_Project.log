@@ -1,0 +1,9 @@
+﻿  txt2mat.c
+  main.c
+c:\users\lukej\documents\visual studio 2015\projects\knee_habilitation_project\knee_habilitation_project\main.c(591): warning C4013: 'horizontal_rotation_gyr' undefined; assuming extern returning int
+c:\users\lukej\documents\visual studio 2015\projects\knee_habilitation_project\knee_habilitation_project\main.c(1023): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\lukej\documents\visual studio 2015\projects\knee_habilitation_project\knee_habilitation_project\main.c(1031): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+horizontal_alignment.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Knee_Habilitation_Project.vcxproj -> C:\Users\lukej\documents\visual studio 2015\Projects\Knee_Habilitation_Project\Debug\Knee_Habilitation_Project.exe
+  Knee_Habilitation_Project.vcxproj -> C:\Users\lukej\documents\visual studio 2015\Projects\Knee_Habilitation_Project\Debug\Knee_Habilitation_Project.pdb (Partial PDB)
